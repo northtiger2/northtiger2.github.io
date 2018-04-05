@@ -1,0 +1,51 @@
+@media (max-width:991px) {
+    .icon-text{
+        margin-left: -70px;
+        margin-right: -70px;        
+    }
+    p.text-muted {
+        font-size: 0.9Rem;
+    }
+    
+
+}
+
+
+@media(max-width: 832px){
+    #portfolio h4{
+        font-size: 1.2rem;
+    }
+}
+@media(max-height: 700px){
+    .carousel-inner{
+    height: 700px;
+    }
+}
+
+#carouselExampleIndicators h1{
+    font-size:7rem;
+    font-family: 'Binggrae-Bold'
+}
+#carouselExampleIndicators p{
+    font-size:2rem;
+    font-family: 'Binggrae-Bold'
+}
+.carousel-inner{
+    height: 900px;
+}
+
+.d-block-w-100 {
+    height: 100%;
+    width : 100%;
+}
+
+.carousel-item{
+  height: 100%;  
+}
+
+
+@media (max-height:650px) {
+    .carousel-inner{
+        height: 620px;
+    }
+}
